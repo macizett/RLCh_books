@@ -1,12 +1,14 @@
-{
+[
+    {
     "id": 1,
     "title": "The Future of Technology",
     "author": "Jane Doe",
     "text": "This is the body of the article. It can be quite lengthy and can include various elements like text, images, links, etc.",
-},
-{
+    },
+    {
     "id": 2,
     "title": "Hello, world",
     "author": "Jane Doe",
     "text": "This is the body of the article. It can be quite lengthy and can include various elements like text, images, links, etc.",
-},
+    }
+]
